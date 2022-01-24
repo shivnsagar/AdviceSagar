@@ -1,0 +1,23 @@
+   {
+    "name": "AdviceSagar",
+    "short_name": "AdviceSagar",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjYBMsKSqeolPIvDvWNn07knG_vkANfUpN05BiCaX-mCiKSW2CX-9pO_qPBHb_P-9cHT3rQVe4yFcY3ynDp4VKMtWvIVdth26PUSY9PIdDo2dFzQ8WiD88ycOGT2HwGkLdKySvZ93ac0nSgL0xXZ08iLe0ZTAWDjSzflTZlyKOUbrfsj968px5nPb7X=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjMBXTc6p7bthxWyTQnwpf0LLCq3s7cpG0uEKte6sxVyUkqL2Ac6D3PpKR16d4oat3UMqnCfVpmVUC0idtYXxUnY6zS8wbL3AJ_v__pwMps7WPsqexDrTtwl-dcfRbhKmpP9ZYsEPjIREgpSf0dTXOZv73EftH6Sm80L61Pb-9LTE1J0FnwsrhxhGyk=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ff4500",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://advicesagar.blogspot.com/"
+}
